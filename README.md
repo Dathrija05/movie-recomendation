@@ -26,9 +26,9 @@ To run the notebook locally and explore the recommendations, follow these steps:
 
 ### Prerequisites 
 Ensure you have Python installed alongside the following required data science libraries:
-
+```bash
 pip install pandas numpy scikit-learn notebook
-
+```
 ### Setup and Execution
 
 1. **Clone the repository:**
